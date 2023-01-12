@@ -18,5 +18,5 @@ vector<string> split(string input , string delimeter) {
 int main(){
     string s = "aaaaa aaaaa aaaaa aaaaaa aaaaa!" , d = " ";
     vector<string> a = split(s , d);
-    for(string b : a) cout << b << "\n";
+    for(string b : a) cout << b << "\n"; // vector a 내에 있는 string 타입의 요소를 검색함.
 }
