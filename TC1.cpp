@@ -15,3 +15,5 @@ int main(){
     cout << "cnt:" << cnt << '\n';
     return 0;
 }
+
+//g++ -std=c++14 -Wall { FileName }.cpp -o test.out
