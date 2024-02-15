@@ -13,7 +13,6 @@ int func1(int N){
 }
 
 int func2(int arr[], int N){
-  int arr_size = sizeof(arr) / sizeof(arr[0]);
   for (int i = 0; i < N; i++) {
       for (int j = i + 1; j < N; j++) {
         if (arr[i] + arr[j] == 100) {
