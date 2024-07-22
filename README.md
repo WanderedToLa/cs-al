@@ -1,5 +1,7 @@
 # csal
 
+> computer science and algorithms
+
 ## 입출력 싱크
 
 ```cpp
@@ -63,3 +65,8 @@ cout.tie(NULL);
 4. 아니라면 다른 알고리즘을 생각
 
 5. 제출하기전, 반례를 항상 생각
+
+## 참고
+
+- [DremDeveloper](https://www.youtube.com/@dremdeveloper/featured)
+- [큰돌](https://blog.naver.com/jhc9639/222283814653)
