@@ -1,3 +1,4 @@
+// 10988 - 팰린드롬 확인하기
 #include<bits/stdc++.h>
 using namespace std;
 
